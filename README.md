@@ -9,6 +9,10 @@ Package license: GPL-3.0-or-later
 
 Summary: The top-like text-based user interface for Austin
 
+Development: https://github.com/P403n1x87/austin-tui
+
+Documentation: https://github.com/P403n1x87/austin-tui/blob/master/README.md
+
 Current build status
 ====================
 

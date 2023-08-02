@@ -22,6 +22,8 @@ requirements:
     - pip
     - poetry
     - python
+    - hatchling
+    - hatch-vcs
   run:
     - austin >=2.0.0
     - austin-python
@@ -40,6 +42,8 @@ about:
   summary: The top-like text-based user interface for Austin
   license: GPL-3.0-or-later
   license_file: LICENSE.md
+  dev_url: https://github.com/P403n1x87/austin-tui
+  doc_url: https://github.com/P403n1x87/austin-tui/blob/master/README.md
 
 extra:
   recipe-maintainers:
