@@ -1,5 +1,5 @@
 {% set name = "austin-tui" %}
-{% set version = "1.3.0" %}
+{% set version = "2.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 44983acb77ac1971b221e17f807801f95be5d9ffa3dd391905c6cd79f7f39826
+  sha256: 36e7f9807ef23e7ae25988c0ebaa7d06598dada0642e6e783808e9071c5af638
 
 build:
   number: 0
